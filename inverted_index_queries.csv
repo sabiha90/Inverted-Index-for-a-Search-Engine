@@ -1,0 +1,4 @@
+Query,Common Frequency,Common Documents
+asus AND google,2,"{'doc1', 'doc8'}"
+screen AND bad,1,{'doc3'}
+great AND tablet,4,"{'doc6', 'doc2', 'doc10', 'doc3'}"
